@@ -1,5 +1,13 @@
 # CS3241Demo
 
+## Featured - Lab5
+* Scaling and composition of primitives to produce complex objects.
+* Speed up raytracing using bounding volumes.
+* "Simulated" caustics and fresnel effect using simple approximation.
+* Texture and normal mapping.
+
+![Lab5](Lab5-1.png)
+
 ## Lab1
 * Hierachical transformations.
 
@@ -21,11 +29,3 @@
 * Animation using key framing.
 
 ![Lab4](Lab4.gif)
-
-## Lab5
-* Scaling and composition of primitives to produce complex objects.
-* Speed up raytracing using bounding volumes.
-* "Simulated" caustics and fresnel effect using simple approximation.
-* Texture and normal mapping.
-
-![Lab5](Lab5-1.png)
